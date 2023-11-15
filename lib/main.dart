@@ -12,3 +12,7 @@ class LinkedIn extends StatelessWidget {
     return Text("Hello MotherS!");
   }
 }
+
+//Like mike
+//Anny
+//Purple hearts
