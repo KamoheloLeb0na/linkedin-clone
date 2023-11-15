@@ -9,6 +9,6 @@ class LinkedIn extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Text("Hello Mother!");
+    return Text("Hello MotherS!");
   }
 }
